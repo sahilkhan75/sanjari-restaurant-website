@@ -610,7 +610,7 @@ function Menu() {
 
                             {/* SINGLE MENU IMAGE */}
                             <img
-                                src="public/menu/ChatGPT Image Sep 23, 2026, 12_25_45 PM.png"
+                                src="ChatGPT Image Sep 23, 2026, 12_25_45 PM.png"
                                 alt="Sanjari Hotel & Restaurant Full Menu"
                                 className="max-h-[90vh] max-w-full object-contain rounded-2xl shadow-2xl"
                             />
