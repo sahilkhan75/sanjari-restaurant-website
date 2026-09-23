@@ -22,8 +22,12 @@ function Navbar() {
 
                     {/* Logo */}
                     <a href="#home" className="flex items-center gap-3">
-                        <div className="w-11 h-11 rounded-full bg-orange-500 flex items-center justify-center">
-                            <span className="text-white font-bold text-xl">S</span>
+                        <div className="w-11 h-11 rounded-full ">
+                            {/* <span className="text-white font-bold text-xl "> */}
+                            <img
+                                className="rounded-full max-h-full w-full"
+                                src="public/IMG_5438.JPG" alt="" />
+                            {/* </span> */}
                         </div>
 
                         <div>
