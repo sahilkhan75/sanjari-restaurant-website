@@ -26,7 +26,7 @@ function Navbar() {
                             {/* <span className="text-white font-bold text-xl "> */}
                             <img
                                 className="rounded-full max-h-full w-full"
-                                src="public/IMG_5438.JPG" alt="" />
+                                src="/IMG_5438.JPG" alt="" />
                             {/* </span> */}
                         </div>
 
