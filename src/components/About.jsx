@@ -108,7 +108,7 @@ function About() {
                     >
 
                         <img
-                            src="/IMG_5439.JPG"
+                            src="IMG_5439.JPG"
                             alt="Restaurant interior"
                             className="w-full h-[500px] object-cover rounded-[2rem]"
                         />
