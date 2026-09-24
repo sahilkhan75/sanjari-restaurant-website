@@ -45,12 +45,12 @@ function Menu() {
                 "https://www.shutterstock.com/shutterstock/photos/614849828/display_1500/stock-photo-indian-snack-deep-fried-papad-614849828.jpg",
         },
         {
-            name: "Samosa ",
+            name: "Maggi",
             category: "Starters",
             price: 90,
             description: "Crispy and spicy Indian street-style starter.",
             image:
-                "https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7?auto=format&fit=crop&w=800&q=85",
+                "https://tse2.mm.bing.net/th/id/OIP.f_2ykLtV6rBCrcK56_kw3AHaEO?r=0&pid=Api&h=220&P=0",
         },
         {
             name: "Veg Pakoda",
@@ -122,7 +122,7 @@ function Menu() {
             price: 110,
             description: "Spicy noodles tossed with chilli and garlic.",
             image:
-                "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=85",
+                "https://tse4.mm.bing.net/th/id/OIP.tNgGtV4uGibqOBXxxBUrBgHaHa?r=0&pid=Api&h=220&P=0",
         },
         {
             name: "Singapore Chowmein",
@@ -130,7 +130,7 @@ function Menu() {
             price: 130,
             description: "Flavorful Singapore-style vegetable noodles.",
             image:
-                "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=800&q=85",
+                "https://tse4.mm.bing.net/th/id/OIP.oFSkwtjkJ2tCPHoENB47hAHaG7?r=0&pid=Api&h=220&P=0",
         },
         {
             name: "Veg Manchurian",

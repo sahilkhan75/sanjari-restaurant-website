@@ -4,13 +4,13 @@ function Gallery() {
     const images = [
         "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=1000&q=85",
 
-        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1000&q=85",
+        "/public/IMG_5442.JPG",
 
         "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=1000&q=85",
 
-        "https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7?auto=format&fit=crop&w=1000&q=85",
+        "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=800&q=85",
 
-        "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&w=1000&q=85",
+        "/public/IMG_5439.JPG",
     ];
 
     return (
@@ -49,8 +49,8 @@ function Gallery() {
                             viewport={{ once: true }}
                             transition={{ delay: index * 0.08 }}
                             className={`overflow-hidden rounded-2xl ${index === 0
-                                    ? "md:col-span-2 md:row-span-2"
-                                    : ""
+                                ? "md:col-span-2 md:row-span-2"
+                                : ""
                                 }`}
                         >
 
@@ -58,8 +58,8 @@ function Gallery() {
                                 src={image}
                                 alt={`Sanjari gallery ${index + 1}`}
                                 className={`w-full h-full min-h-[180px] ${index === 0
-                                        ? "md:min-h-[380px]"
-                                        : ""
+                                    ? "md:min-h-[380px]"
+                                    : ""
                                     } object-cover hover:scale-105 transition-transform duration-700`}
                             />
 

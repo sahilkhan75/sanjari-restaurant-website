@@ -108,7 +108,7 @@ function About() {
                     >
 
                         <img
-                            src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=85"
+                            src="/public/IMG_5439.JPG"
                             alt="Restaurant interior"
                             className="w-full h-[500px] object-cover rounded-[2rem]"
                         />

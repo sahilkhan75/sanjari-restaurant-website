@@ -11,7 +11,7 @@ function Hero() {
             {/* Background */}
             <div className="absolute inset-0">
                 <img
-                    src="https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=2000&q=85"
+                    src="https://images.unsplash.com/photo-1579751626657-72bc17010498?auto=format&fit=crop&w=800&q=85"
                     alt="Indian food"
                     className="w-full h-full object-cover"
                 />
@@ -105,7 +105,7 @@ function Hero() {
                             <div className="absolute -inset-5 border border-orange-400/30 rounded-[2rem]" />
 
                             <img
-                                src="https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7?auto=format&fit=crop&w=1000&q=85"
+                                src="https://images.unsplash.com/photo-1579751626657-72bc17010498?auto=format&fit=crop&w=800&q=85"
                                 alt="Delicious Indian food"
                                 className="relative w-full h-[550px] object-cover rounded-[2rem]"
                             />
