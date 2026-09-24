@@ -16,11 +16,11 @@ import {
 } from "lucide-react";
 
 function Menu() {
-    const [activeCategory, setActiveCategory] = useState("All");
+    const [activeCategory, setActiveCategory] = useState("Starters");
     const [showFullMenu, setShowFullMenu] = useState(false);
 
     const categories = [
-        { name: "All", icon: Utensils },
+        // { name: "All", icon: Utensils },
         { name: "Starters", icon: Soup },
         { name: "Pizza", icon: Pizza },
         { name: "Chinese", icon: Utensils },
@@ -37,17 +37,17 @@ function Menu() {
         // STARTERS
         // =========================
         {
-            name: "Tasty Papad",
+            name: "cheese sandwich",
             category: "Starters",
-            price: 20,
+            price: 90,
             description: "Crispy papad served with fresh seasoning.",
             image:
-                "https://www.shutterstock.com/shutterstock/photos/614849828/display_1500/stock-photo-indian-snack-deep-fried-papad-614849828.jpg",
+                "https://tse3.mm.bing.net/th/id/OIP.ceOBsv1-tJh_-lu6pipeLAHaJQ?r=0&pid=Api&h=220&P=0",
         },
         {
             name: "Maggi",
             category: "Starters",
-            price: 90,
+            price: 80,
             description: "Crispy and spicy Indian street-style starter.",
             image:
                 "https://tse2.mm.bing.net/th/id/OIP.f_2ykLtV6rBCrcK56_kw3AHaEO?r=0&pid=Api&h=220&P=0",
