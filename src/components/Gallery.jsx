@@ -4,13 +4,13 @@ function Gallery() {
     const images = [
         "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=1000&q=85",
 
-        "/public/IMG_5442.JPG",
+        "IMG_5442.JPG",
 
         "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=1000&q=85",
 
         "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=800&q=85",
 
-        "/public/IMG_5439.JPG",
+        "IMG_5439.JPG",
     ];
 
     return (
